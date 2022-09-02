@@ -1,0 +1,23 @@
+.container{
+    background-color: #437674;
+    height: 13vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo{
+    background: orange;
+    height: 13vh;
+}
+
+img{
+    max-height: 100%;
+    width: auto;
+}
+
+.botonera{
+    background: red;
+    width: 40%;
+    height: 100%;
+}
