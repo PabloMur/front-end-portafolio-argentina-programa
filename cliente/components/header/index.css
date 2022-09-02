@@ -4,6 +4,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    padding: 0 50px;
 }
 
 .logo{
@@ -17,7 +18,33 @@ img{
 }
 
 .botonera{
-    background: red;
-    width: 40%;
+    width: 20%;
     height: 100%;
+    overflow: hidden;
+}
+
+.redes{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    max-width: 100%;
+    height: 100%;
+}
+
+.redes li{
+    list-style: none;
+}
+
+.logo-red{
+    height: 30px;
+    width: auto;
+}
+
+.login-button{
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 18px;
 }
