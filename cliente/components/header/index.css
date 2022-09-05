@@ -1,5 +1,5 @@
 .container{
-    background-color: #437674;
+    background-color: rgb(78, 78, 253);
     height: 13vh;
     display: flex;
     justify-content: space-between;
@@ -8,8 +8,14 @@
 }
 
 .logo{
-    background: orange;
+    background: rgb(0, 0, 0);
     height: 13vh;
+    display: flex;
+    align-items: center;
+    color: white;
+    font-size: 18px;
+    font-family: Lato, sans-serif;
+    padding-right: 10px;
 }
 
 img{

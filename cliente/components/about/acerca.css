@@ -1,0 +1,21 @@
+.container-acerca{
+    height: 30vh;
+    background-color: rgb(78, 78, 253);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.profile-image{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    background-color: red;
+    position: absolute;
+    top: 30vh;
+    left: 5%;
+    background-image: url("./img/profile.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

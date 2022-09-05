@@ -4,6 +4,7 @@ function header(el) {
   <div class="container">
     <div class="logo">
       <img src="./img/APLogo-20-20.png"/>
+      <p class="titulo">#YoProgramo</p>
     </div>
     <div class="botonera">
       <ul class="redes">
@@ -20,7 +21,7 @@ function header(el) {
         </li>
 
         <li class="red">
-          <a href="https://github.com/PabloMur" target="_blank">
+          <a href="https://www.instagram.com/pol.murr/?hl=es" target="_blank">
             <img class="logo-red" src="./img/instagram.png"/>
           </a>
         </li>

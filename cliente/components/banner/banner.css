@@ -1,0 +1,8 @@
+.container-banner{
+    height: 35vh;
+    background-color: red;
+    background-image: url("./img/fondo-banner.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
